@@ -1,4 +1,4 @@
-# Parallel Programming and Introduction to High-Performance Computing (HPC)
+# Online Course Parallel Programming and Introduction to High-Performance Computing 
 
 ## Course Description   
 

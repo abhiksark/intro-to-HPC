@@ -1,1 +1,1 @@
-# intro-to-HPC
+# Parallel Programming and Introduction to High-Performance Computing (HPC)
